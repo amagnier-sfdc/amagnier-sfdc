@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Antoine Magnier @amagnier-sfdc
-- 👀 I’m interested in Javascript & JAVA
+- 👀 I’m interested in Typescript & Java
 - 🌱 I’m currently learning content builder implementation
 - 💞️ I’m looking to collaborate on a11y
 - 📫 How to reach me amagnier@salesforce.com
